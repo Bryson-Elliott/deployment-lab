@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "name": "deployment",
+  "version": "1.0.0",
+  "main": "server/main.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
